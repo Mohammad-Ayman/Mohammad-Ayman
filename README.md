@@ -1,6 +1,5 @@
 ### Hi there 👋
-### - 🔭 I’m currently working on Frontend Development
-### - 🌱 I’m currently learning Backend Development
+### - 🔭 I’m a Software Engineer
 ### - 👯 I’m looking to collaborate on Software Development Projects
 
 <!--
